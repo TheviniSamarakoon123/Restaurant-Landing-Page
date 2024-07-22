@@ -18,12 +18,10 @@ const About = () => {
           Food Is An Important Part Of A Balanced Diet
         </h1>
         <p className='primary-text'>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Lorem ipsum dolor sit amet consectetur. Not large, nor refined. Pain, in a way, harasses, and a great facility at the edge as much.
         </p>
         <p className='primary-text'>
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+          Not large or elite typography. Pain is troublesome, with great ease at the edge as much.
         </p>
         <div className='about-buttons-container'>
           <button className='secondary-button'>

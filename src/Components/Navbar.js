@@ -49,7 +49,7 @@ const Navbar = () => {
         <div className='nav-logo-container'>
           <img src={Logo} alt="" />
         </div>
-        <div className='navbaar-links-container'>
+        <div className='navbar-links-container'>
             <a href=''>Home</a>
             <a href=''>About</a>
             <a href=''>Testimonials</a>
